@@ -1,5 +1,5 @@
 {
-  "name": "fixsoftware/webpay-ws-php",
+  "name": "be-lenka/gp-webpay-ws-php-sdk",
   "description": "GP Webpay WS API",
   "type": "library",
   "keywords": ["gpwebpay", "webservice", "php"],
